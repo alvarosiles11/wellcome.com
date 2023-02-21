@@ -1,5 +1,7 @@
 # wellcome
 
+color a
+dir/s
 
 
 https://www.passwordmonster.com/
