@@ -9,3 +9,5 @@ https://www.passwordmonster.com/
 https://www.virustotal.com/gui/home/upload
 
 ![image](https://user-images.githubusercontent.com/61075383/220446662-5f8bc789-c133-4130-a4d7-dea40682de00.png)
+
+http://www.insecam.org/en/byrating/?page=4
